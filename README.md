@@ -22,7 +22,7 @@ It focuses on robust lane identification using computer vision techniques under 
 
 ---
 
-## Project Structure
+## Project Structure:
 ```
 Enhanced-Lane-Detection-for-Autonomous-Vehicles/
 │
