@@ -39,7 +39,7 @@ Enhanced-Lane-Detection-for-Autonomous-Vehicles/
 ├── data/
 │   ├── images/
 │   │   ├── raw/
-│   │   └── processed/
+│   │   └── processed/ 
 │   └── videos/                    # Optional (dashcam videos)
 │
 ├── assets/
