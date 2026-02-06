@@ -14,7 +14,7 @@ It focuses on robust lane identification using computer vision techniques under 
 
 ---
 
-## Tech Stack
+## Tech Stack 
 - Python
 - OpenCV
 - NumPy
