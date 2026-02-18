@@ -2,7 +2,7 @@
 
 ## Overview
 This project implements an enhanced lane detection pipeline designed for autonomous driving systems.  
-It focuses on robust lane identification using computer vision techniques under varying road conditions.
+It focuses on robust lane identification using computer vision techniques under varying road conditions. 
 
 ---
 
