@@ -6,7 +6,7 @@ It focuses on robust lane identification using computer vision techniques under 
 
 ---
 
-## Key Features
+## Key Features 
 - Image preprocessing (grayscale, blurring, edge detection)
 - Lane detection using classical CV techniques 
 - Lane visualization and overlay
